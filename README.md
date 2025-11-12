@@ -1,13 +1,24 @@
-<h1 align="center">HTML CSS JAVASCRIPT</h1>
-<p>These are mini projects which I created using HTML CSS and JavaScript. </p>
+<h1 align="center"> HTML • CSS • JavaScript </h1>
 
-Live:
-<br/>
+<p align="center">
+  These are mini projects I created using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.
+</p>
 
-- deployed using vercel 
+---
 
-<br/>
+### Live Demo : 
+Deployed using **Vercel**
+
+🔗 [Live Projects](#) <!-- You can replace # with your actual Vercel deployment link -->
+
+---
+
+### Run Locally
+
 ```bash
-cd projec_path
+# Clone the repository
 git clone https://github.com/jaishree-verma/basic_projects.git
-```
+
+# Navigate to the project directory
+cd basic_projects
+
